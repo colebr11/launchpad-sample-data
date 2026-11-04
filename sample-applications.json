@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sample-001",
+    "company": "S.T.A.R. Labs (Sample)",
+    "position": "Research Software Intern",
+    "date": "2026-10-30",
+    "status": "Applied",
+    "notes": "Help maintain particle accelerator monitoring software. Ask about workplace safety."
+  },
+  {
+    "id": "sample-002",
+    "company": "Avengers (Sample)",
+    "position": "Defense Systems Engineering Intern",
+    "date": "2026-10-25",
+    "status": "Interviewing",
+    "notes": "Interview includes debugging the team's mission dashboard."
+  },
+  {
+    "id": "sample-003",
+    "company": "Vought International (Sample)",
+    "position": "Mobile App Development Intern",
+    "date": "2026-10-20",
+    "status": "Rejected",
+    "notes": "Application rejected after asking too many questions about the company."
+  },
+  {
+    "id": "sample-004",
+    "company": "Wayne Enterprises (Sample)",
+    "position": "Cybersecurity Intern",
+    "date": "2026-10-15",
+    "status": "Offered",
+    "notes": "Offer received. Some projects require unusual evening hours."
+  },
+  {
+    "id": "sample-005",
+    "company": "InGen (Sample)",
+    "position": "Wildlife Tracking Software Intern",
+    "date": "2026-10-10",
+    "status": "Initial Interest",
+    "notes": "Interested in improving dinosaur tracking. Confirm that the fences have backup power."
+  }
+]
