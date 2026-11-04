@@ -5,7 +5,8 @@
     "position": "Research Software Intern",
     "date": "2026-10-30",
     "status": "Applied",
-    "notes": "Help maintain particle accelerator monitoring software. Ask about workplace safety."
+    "notes": "Help maintain particle accelerator monitoring software. Ask about workplace safety.",
+    "imageUrl": "https://raw.githubusercontent.com/colebr11/launchpad-sample-data/main/logos/star-labs.png"
   },
   {
     "id": "sample-002",
@@ -13,7 +14,8 @@
     "position": "Defense Systems Engineering Intern",
     "date": "2026-10-25",
     "status": "Interviewing",
-    "notes": "Interview includes debugging the team's mission dashboard."
+    "notes": "Interview includes debugging the team's mission dashboard.",
+    "imageUrl": "https://raw.githubusercontent.com/colebr11/launchpad-sample-data/main/logos/avengers.png"
   },
   {
     "id": "sample-003",
@@ -21,7 +23,8 @@
     "position": "Mobile App Development Intern",
     "date": "2026-10-20",
     "status": "Rejected",
-    "notes": "Application rejected after asking too many questions about the company."
+    "notes": "Application rejected after asking too many questions about the company.",
+    "imageUrl": "https://raw.githubusercontent.com/colebr11/launchpad-sample-data/main/logos/vought.png"
   },
   {
     "id": "sample-004",
@@ -29,7 +32,8 @@
     "position": "Cybersecurity Intern",
     "date": "2026-10-15",
     "status": "Offered",
-    "notes": "Offer received. Some projects require unusual evening hours."
+    "notes": "Offer received. Some projects require unusual evening hours.",
+    "imageUrl": "https://raw.githubusercontent.com/colebr11/launchpad-sample-data/main/logos/wayne-enterprises.png"
   },
   {
     "id": "sample-005",
@@ -37,6 +41,7 @@
     "position": "Wildlife Tracking Software Intern",
     "date": "2026-10-10",
     "status": "Initial Interest",
-    "notes": "Interested in improving dinosaur tracking. Confirm that the fences have backup power."
+    "notes": "Interested in improving dinosaur tracking. Confirm that the fences have backup power.",
+    "imageUrl": "https://raw.githubusercontent.com/colebr11/launchpad-sample-data/main/logos/ingen.png"
   }
 ]
